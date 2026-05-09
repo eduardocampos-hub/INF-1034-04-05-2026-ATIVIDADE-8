@@ -19,7 +19,7 @@ arroz_img = image.load("arroz.png")
 arroz_img = transform.scale(arroz_img,(50,50))
 
 #texto
-arroz_font = font.Font("ThisAppeal-FreeDemo.ttf", 30)
+arroz_font = font.Font("LoveDays-2v7Oe.ttf", 30)
 arroz_text = arroz_font.render(texto, True, (255,222,234))
 
 #musica
